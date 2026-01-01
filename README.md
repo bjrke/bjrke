@@ -8,3 +8,5 @@
  - https://www.tchibo.de (2010-2012)
  - https://bjrke.gitlab.io/hidden-line
  - https://bjrke.gitlab.io/factorio-optimizer
+
+[![Project Euler](https://projecteuler.net/profile/bjrke.png)](https://projecteuler.net/progress=bjrke)
