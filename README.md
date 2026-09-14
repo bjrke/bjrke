@@ -8,5 +8,6 @@
  - https://www.tchibo.de (2010-2012)
  - https://bjrke.gitlab.io/hidden-line (pet project)
  - https://bjrke.gitlab.io/factorio-optimizer (pet project)
+ - https://bjrke.gitlab.io/euler-in-kotlin (pet project)
 
-[![Project Euler](https://projecteuler.net/profile/bjrke.png)](https://projecteuler.net/progress=bjrke)
+   [![Project Euler](https://projecteuler.net/profile/bjrke.png)](https://projecteuler.net/progress=bjrke)
