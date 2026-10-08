@@ -12,13 +12,15 @@
  - https://www.tchibo.de (2010-2012) \
    webshop, full-stack \
    tech: Java | Wicket | Spring | Hibernate | Subversion
+
+🧸 Pet Projects:
  - https://bjrke.gitlab.io/hidden-line \
-   pet project \
-   Rust | Wasm
+   repo: https://gitlab.com/bjrke/hidden-line \
+   tech: Rust | Wasm
  - https://bjrke.gitlab.io/factorio-optimizer \
-   pet project \
-   Kotlin | React | kotlin-wrappers
+   repo: https://gitlab.com/bjrke/factorio-optimizer \
+   tech: Kotlin | React | kotlin-wrappers | Gradle
  - https://bjrke.gitlab.io/euler-in-kotlin \
-   pet project \
-   Kotlin | Wasm \
+   no public repo to keep solutions secret \
+   tech: Kotlin | Wasm | (original) Scala | Gradle \
    [![Project Euler](https://projecteuler.net/profile/bjrke.png)](https://projecteuler.net/progress=bjrke)
