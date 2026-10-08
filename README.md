@@ -28,8 +28,8 @@
 👐 Open Source Contributions
  - https://github.com/bjrke/JSR305CheckstylePlugin 🪦 \
    Maintainer; now part of [sevntu-checks](https://github.com/sevntu-checkstyle/sevntu.checkstyle/blob/master/sevntu-checks/src/main/java/com/github/sevntu/checkstyle/checks/coding/Jsr305AnnotationsCheck.java)
- - https://github.com/neurolabs/henplus/compare/debian-package
-   release of Debian package, but never merged 🪦
+ - https://github.com/neurolabs/henplus/compare/debian-package 🪦 \
+   release of Debian package, but never merged
  - https://github.com/jenkinsci/findbugs-plugin/pull/5 🪦
    https://github.com/jenkinsci/findbugs-plugin/commit/747196b
  - https://github.com/google/guava/pull/2614
