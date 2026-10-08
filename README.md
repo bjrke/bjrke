@@ -30,17 +30,17 @@
    Maintainer; now part of [sevntu-checks](https://github.com/sevntu-checkstyle/sevntu.checkstyle/blob/master/sevntu-checks/src/main/java/com/github/sevntu/checkstyle/checks/coding/Jsr305AnnotationsCheck.java)
  - https://github.com/neurolabs/henplus/compare/debian-package 🪦 \
    release of Debian package, but never merged
- - https://github.com/jenkinsci/findbugs-plugin/pull/5 🪦
+ - https://github.com/jenkinsci/findbugs-plugin/pull/5 🪦\
    https://github.com/jenkinsci/findbugs-plugin/commit/747196b
- - https://github.com/google/guava/pull/2614
+ - https://github.com/google/guava/pull/2614 \
    https://github.com/google/guava/commit/c5231cf
- - https://github.com/apache/kafka/pull/3538
+ - https://github.com/apache/kafka/pull/3538 \
    https://github.com/apache/kafka/commit/3a51550
- - https://github.com/apache/tika/pull/200
+ - https://github.com/apache/tika/pull/200 \
    https://github.com/apache/tika/commit/587e4ae
- - https://github.com/mc1arke/sonarqube-community-branch-plugin/issues/47
+ - https://github.com/mc1arke/sonarqube-community-branch-plugin/pull/48 \
    https://github.com/mc1arke/sonarqube-community-branch-plugin/commit/819638c
- - https://github.com/cakeinpanic/jira-description-action/pull/18
+ - https://github.com/cakeinpanic/jira-description-action/pull/18 \
    https://github.com/cakeinpanic/jira-description-action/commit/9635bf0
  - https://github.com/apache/commons-csv/pull/564
    https://github.com/apache/commons-csv/commit/13d10d7
