@@ -42,5 +42,5 @@
    https://github.com/mc1arke/sonarqube-community-branch-plugin/commit/819638c
  - https://github.com/cakeinpanic/jira-description-action/pull/18 \
    https://github.com/cakeinpanic/jira-description-action/commit/9635bf0
- - https://github.com/apache/commons-csv/pull/564
+ - https://github.com/apache/commons-csv/pull/564 \
    https://github.com/apache/commons-csv/commit/13d10d7
