@@ -12,10 +12,10 @@
  - https://www.tchibo.de (2010-2012) \
    webshop, full-stack \
    tech: Java | Wicket | Spring | Hibernate | Subversion
- - finalfolder.com 🪦 (2010)
+ - finalfolder.com 🪦 (2010) \
    tech: Java | Scala | Wicket | PostgreSQL
- - https://www.pokerstrategy.com
-   community module 🪦 (2008-2010)
+ - https://www.pokerstrategy.com \
+   community module 🪦 (2008-2010) \
    tech: Java | Tapestry | PostgreSQL
 
 🧸 Pet Projects:
