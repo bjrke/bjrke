@@ -3,18 +3,18 @@
 💪 Skills: Java | Kotlin | Rust | Scala | TypeScript | SQL
 
 🛠️ Projects:
- - https://supremacy1914.com https://www.callofwar.com https://www.ironorder1919.com (2019-2025) \
+ - https://supremacy1914.com https://callofwar.com https://ironorder1919.com (2019-2025) \
    game server, live statistics system, content-editor \
    Java | Gradle | Spring Boot | GCP | MySQL | Kafka | Docker | TypeScript | GitHub Actions
  - https://just.social (2012-2018) \
    full-stack \
    tech: Java | HTML5 | CSS3 | JavaScript | React | PostgreSQL | Oracle SQL | Kafka | Git | Solr | Antlr | Jenkins
- - https://www.tchibo.de (2010-2012) \
+ - https://tchibo.de (2010-2012) \
    webshop, full-stack \
    tech: Java | Wicket | Spring | Hibernate | Subversion
  - finalfolder.com 🪦 (2010) \
    tech: Java | Scala | Wicket | PostgreSQL
- - https://www.pokerstrategy.com \
+ - https://pokerstrategy.com \
    community module 🪦 (2008-2010) \
    tech: Java | Tapestry | PostgreSQL
 
