@@ -12,6 +12,11 @@
  - https://www.tchibo.de (2010-2012) \
    webshop, full-stack \
    tech: Java | Wicket | Spring | Hibernate | Subversion
+ - finalfolder.com 🪦 (2010)
+   tech: Java | Scala | Wicket | PostgreSQL
+ - https://www.pokerstrategy.com
+   community module 🪦 (2008-2010)
+   tech: Java | Tapestry | PostgreSQL
 
 🧸 Pet Projects:
  - https://bjrke.gitlab.io/hidden-line \
@@ -25,7 +30,7 @@
    tech: Kotlin | Wasm | (original) Scala | Gradle \
    [![Project Euler](https://projecteuler.net/profile/bjrke.png)](https://projecteuler.net/progress=bjrke)
 
-👐 Open Source Contributions
+👐 Open Source Contributions:
  - https://github.com/bjrke/JSR305CheckstylePlugin 🪦 \
    Maintainer; now part of [sevntu-checks](https://github.com/sevntu-checkstyle/sevntu.checkstyle/blob/master/sevntu-checks/src/main/java/com/github/sevntu/checkstyle/checks/coding/Jsr305AnnotationsCheck.java)
  - https://github.com/neurolabs/henplus/compare/debian-package 🪦 \
