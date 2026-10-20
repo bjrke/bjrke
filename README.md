@@ -8,7 +8,7 @@
    Java | Gradle | Spring Boot | GCP | MySQL | Kafka | Docker | TypeScript | GitHub Actions
  - https://just.social (2012-2018) \
    full-stack \
-   tech: Java | HTML5 | CSS3 | JavaScript | React | PostgreSQL | Oracle SQL | Kafka | Git | Solr | Antlr | Jenkins
+   tech: Java | HTML5 | CSS3 | JavaScript | React | PostgreSQL | Oracle SQL | Kafka | Git | Solr | ANTLR | Jenkins
  - https://tchibo.de (2010-2012) \
    webshop, full-stack \
    tech: Java | Wicket | Spring | Hibernate | Subversion
